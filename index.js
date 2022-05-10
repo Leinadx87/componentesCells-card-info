@@ -1,0 +1,1 @@
+export { CardInfo } from './src/CardInfo.js';
